@@ -17,7 +17,7 @@ This is a great way to:
 
 You're NOT writing a manual, here. It doesn't have to be as detailed as a cheatsheet! More specifically, you can talk about things in plain English.
 
-Explain it to yourself from before you started this week. That naive student from a week ago--again, you!--didn't have the underlying knowledge to know what HTML or Mark Down are, which means you'll have to explain things GENERALLY, avoiding specific terminology whenever possible.
+Explain it to yourself from before you started this week. That naive student from a week ago--again, you!--didn't have the underlying knowledge to know what HTML or Markdown are, which means you'll have to explain things GENERALLY, avoiding specific terminology whenever possible.
 
 Don't worry too much about the format overall, though. This is our first time, and we'll converge on a common style for this as we go!
 
@@ -25,7 +25,7 @@ Don't worry too much about the format overall, though. This is our first time, a
 ### Tools You'll Practice
 
 * REPL
-* Mark Down
+* Markdown
 
 
 ### Directions
